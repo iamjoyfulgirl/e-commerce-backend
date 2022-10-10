@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a MySQL2 database and backend application for an e-commerce site. Built using MySQL2, Express, and Sequelize.
+This is a MySQL2 database and backend application for an e-commerce site. Built using MySQL2, Express, Sequelize, and dotenv.
 
 ## Below are GIFs showing the functionality of the application: 📽
 
